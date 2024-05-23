@@ -1,0 +1,11 @@
+#timer{
+    float: right;
+}
+
+body{
+    background-color:rgb(26, 209, 209);
+    font-weight:bolder ;
+}
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
